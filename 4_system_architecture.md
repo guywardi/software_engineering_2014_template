@@ -3,6 +3,7 @@
 #####2.1 System Overview
 
 Park Smart solution will have a two definite approach for positioning a definite vehicle or a person.
+
     <b>Approach 1:</b> Locating a mobile device used by the driver who is looking for their parked car.
     <b>Approach 2:</b> Navigating a car to the desired park spot.
 
