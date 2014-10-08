@@ -1,6 +1,6 @@
-USE CASE SCENARIO
+#USE CASE SCENARIO
 
-For Driver
+###For Driver
 
 As a user I want to: -
 
@@ -14,10 +14,10 @@ As a user I want to: -
 
 • Pay the parking fee easily and securely
 
-o Notify the employees to come for help (if disabled)
+• Notify the employees to come for help (if disabled)
 
 • Locate my parked vehicle fast and hassle free
 
-5.1 Use Case Diagram
+######5.1 Use Case Diagram
 
 ![](http://users.metropolia.fi/~guyw/SWE/usecase.png)
