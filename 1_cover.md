@@ -1,6 +1,6 @@
-#Park_Smart!
+#Park Smart!
 
-__Product name__: Park_Smart!
+__Product name__: Park Smart!
 
 __Team name__: SmartPark
 
