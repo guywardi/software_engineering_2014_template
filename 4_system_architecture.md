@@ -1,6 +1,6 @@
 #2.0 SYSTEM ARCHITECTURE
 
-######2.1 System Overview
+#####2.1 System Overview
 
 Park Smart solution will have a two definite approach for positioning a definite vehicle or a person.
     <b>Approach 1:</b> Locating a mobile device used by the driver who is looking for their parked car.
@@ -40,3 +40,9 @@ With the help of Wi-Fi devices parking host can record, amend or reserve the par
 On the other hand the client application will be using as a broadcaster to the parking area looking for the spot, and will be displayed the proper location nearest to the office or classroom of their interest.
 
 #####2.4 Service Architecture
+![](http://users.metropolia.fi/~guyw/SWE/pic1.png)
+
+######Figure 1 (Service Architecture)
+
+#####2.5 Logical Architecture
+![](http://users.metropolia.fi/~guyw/SWE/pic2.png)
