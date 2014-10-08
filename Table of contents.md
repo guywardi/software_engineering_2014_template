@@ -16,13 +16,13 @@
     <li> System Overview 3</li>
   
     <li> Required Aspects 3</li>
-  <ol>
-     <ul> Hardware Resources 3</ul>
+  <ul>
+     <li> Hardware Resources 3</li>
   
-      <ul> Software Resources 3</ul>
-  </ol>
-      <ul> Service Provider 3 </ul>
+      <li> Software Resources 3</li>
   
+      <li> Service Provider 3 </li>
+  </ul>
   <li> Scenario 3</li>
   
   <li> Service Architecture 3</li>
