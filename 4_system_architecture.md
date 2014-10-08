@@ -46,3 +46,18 @@ On the other hand the client application will be using as a broadcaster to the p
 
 #####2.5 Logical Architecture
 ![](http://users.metropolia.fi/~guyw/SWE/pic2.png)
+
+
+######Figure 2 (Logical Diagram)
+
+#####2.6 Functions
+
+
+| S.N      | Components           | Description  |
+| ------------- |-------------| -----|
+| 1.     | Wi-Fi Devices    |  Acquiring parking spot location and client device location by signaling.|
+| 2.      | Switches     |  Connecting users and server side network |
+| 3. | Server     |  Managing and Maintaining database in real time scenario  |
+| 4.     | Smartphone | A mobile platform in order to send request to the server|
+| 5.      | Application| Android or iOS made application so that users can send and position request from |
+| 6. | Parking Management Software | A Platform from where users can be notified, an admin can manage and maintain parking spot as well as notify customer, penalty and fee management, maintain customer/vehicle details etc.  |
