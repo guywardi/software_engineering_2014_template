@@ -1,55 +1,57 @@
 #Table of Contents
 
-  INDOOR PARKING ASSISTANT 2
+<ol>
+ <li> INDOOR PARKING ASSISTANT 2</li>
 
-  Abstract ...................................................... 2
+ <li> Abstract ...................................................... 2</li>
   
-  Keyword ...................................................... 2
+  <li>Keyword ...................................................... 2</li>
   
-  Abbreviations 2
+  <li>Abbreviations 2</li>
   
-  1.0 Introduction 2
+  <li>1.0 Introduction 2</li>
   
-  2.0 System Architecture 3
-  <html><pre>  
-    2.1 System Overview 3
+  <li>2.0 System Architecture 3</li>
+ 
+    <li>2.1 System Overview 3</li>
   
-    2.2 Required Aspects 3
+    <li>2.2 Required Aspects 3</li>
+  <ol>
+<li>      A) Hardware Resources 3</li>
   
-      A) Hardware Resources 3
+  <li>    B) Software Resources 3</li>
+  </ol>
+      <li>C) Service Provider 3</li>
   
-      B) Software Resources 3
+  <li>2.3 Scenario 3</li>
   
-      C) Service Provider 3
-  </pre></html>
-  2.3 Scenario 3
+  <li>2.4 Service Architecture 3</li>
   
-  2.4 Service Architecture 3
+  <li>2.5 Logical Architecture 4</li>
   
-  2.5 Logical Architecture 4
+  <li>2.6 Functions 5</li>
   
-  2.6 Functions 5
+<li>  3.0 Requirements 5</li>
   
-  3.0 Requirements 5
+ <li> 3.1 Functional requirements 5</li>
   
-  3.1 Functional requirements 5
+<li>  3.2 Nonfunctional Requirements. 6</li>
   
-  3.2 Nonfunctional Requirements. 6
+<li>  4.0 User Interface 6</li>
   
-  4.0 User Interface 6
+<li>  5.0 Use case scenario 7</li>
   
-  5.0 Use case scenario 7
+<li>  5.1 Use Case Diagram 7</li>
   
-  5.1 Use Case Diagram 7
+<li>  6.0 Project Management 8</li>
   
-  6.0 Project Management 8
+<li>  6.1 Overview 8</li>
   
-  6.1 Overview 8
+<li>  6.2 Opinion 8</li>
   
-  6.2 Opinion 8
+<li>  6.3 Difficulties and Outcomes 8</li>
   
-  6.3 Difficulties and Outcomes 8
+<li>  Conclusion 8</li>
   
-  Conclusion 8
-  
-  Reference 8
+<li>  Reference 8</li>
+</ol>
