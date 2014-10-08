@@ -1,7 +1,7 @@
 #Table of Contents
 
 <ol>
- <li> INDOOR PARKING ASSISTANT 2</li>
+ <li><b> INDOOR PARKING ASSISTANT</b> ......................................................  2</li>
 
  <li> Abstract ...................................................... 2</li>
   
