@@ -1,8 +1,7 @@
-### This is the cover page of your document
+#Park_Smart!
 
-List here the following details:
-* Project title, name of the product
-* Team name
-* Team members
-* Date
+__Product name__: Park_Smart!
 
+__Team name__: SmartPark
+
+__Team members__: Devndra Ghimire, Sunil Maharjan, Sandeep Aryal, Guy Wardi
