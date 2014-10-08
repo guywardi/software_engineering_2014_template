@@ -4,8 +4,8 @@
 
 Park Smart solution will have a two definite approach for positioning a definite vehicle or a person.
 
-    <b>Approach 1:</b> Locating a mobile device used by the driver who is looking for their parked car.
-    <b>Approach 2:</b> Navigating a car to the desired park spot.
+   <b>Approach 1:</b> Locating a mobile device used by the driver who is looking for their parked car.
+   <b>Approach 2:</b> Navigating a car to the desired park spot.
 
  Here, Approach 1 is the priority since the car owner will be looking for the car in the covered park area where all the WIFI AP is installed. But on the other hand the Approach 2 is the 2nd only he is connected to the predefined network i.e. if that is school network.
 
