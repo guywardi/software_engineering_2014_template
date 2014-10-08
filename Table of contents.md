@@ -19,9 +19,9 @@
   <ol>
      <ul> Hardware Resources 3</ul>
   
-  <li>    <ul> Software Resources 3</ul></li>
+      <ul> Software Resources 3</ul>
   </ol>
-      <li>C) Service Provider 3</li>
+      <ul> Service Provider 3 </ul>
   
   <li> Scenario 3</li>
   
