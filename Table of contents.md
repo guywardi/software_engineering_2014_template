@@ -7,45 +7,42 @@
   
   <li>Keyword ...................................................... 2</li>
   
-  <li>Abbreviations 2</li>
+  <li>Abbreviations  ......................................................  2</li>
   
-  <li> Introduction 2</li>
+  <li> Introduction  ......................................................  2</li>
   
-  <li> System Architecture 3</li>
+  <li> System Architecture  ......................................................  3</li>
  
-    <li> System Overview 3</li>
+    <li> System Overview  ......................................................  3</li>
   
-    <li> Required Aspects 3</li>
+    <li> Required Aspects  ......................................................  3</li>
   </ol>
   <ul>
-     <li> Hardware Resources 3</li>
-  
-      <li> Software Resources 3</li>
-  
-      <li> Service Provider 3 </li>
+     <li> Hardware Resources  ......................................................  3</li>
+      <li> Software Resources  ......................................................  3</li>
+      <li> Service Provider  ......................................................  3 </li>
   </ul>
   <ol>
-  <li> Scenario 3</li>
+  <li> Scenario  ......................................................  3</li>
+  <li> Service Architecture  ......................................................  3</li>
   
-  <li> Service Architecture 3</li>
+  <li> Logical Architecture  ......................................................  4</li>
   
-  <li> Logical Architecture 4</li>
+  <li> Functions  ......................................................  5</li>
   
-  <li> Functions 5</li>
+<li>   Requirements  ......................................................  5</li>
   
-<li>   Requirements 5</li>
+ <li>  Functional requirements  ......................................................  5</li>
   
- <li>  Functional requirements 5</li>
+<li>   Nonfunctional Requirements  ......................................................  6</li>
   
-<li>   Nonfunctional Requirements. 6</li>
+<li>   User Interface ......................................................   6</li>
   
-<li>   User Interface 6</li>
+<li>   Use case scenario  ......................................................  7</li>
   
-<li>   Use case scenario 7</li>
+<li>   Use Case Diagram  ......................................................  7</li>
   
-<li>   Use Case Diagram 7</li>
-  
-<li>   Project Management 8</li>
+<li>   Project Management  ......................................................  8</li>
   
 <li>   Overview 8</li>
   
